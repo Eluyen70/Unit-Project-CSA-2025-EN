@@ -1,8 +1,5 @@
 class Main {
     public static void main(String[] args){
-        System.out.print("Hello, World!");
-        for (int i = 0; i < 4; i++) {
-            System.out.print("Kenton is helping\n" + i);
+        System.out.print("------------------------------------------------------------------------------------------------------\n| abcdefghijklmnopqrstuvwxyz          abcdefghijklmnopqrstuv              abcdefghij     pqrstuvwxyz |\n| zyxwvutsrqponmlkjihgfedcba          bcdefghijklmnopqrstuvwxyz           abcdefghijk    pqrstuvwxyz |\n| abcdefghijk                         cdefghijklm      tuvwxyzab          abcdefghijkl   pqrstuvwxyz |\n| kjihgfedcba                         defghijklmn      uvwxyzabc          abcdefghijklm  pqrstuvwxyz |\n| abcdefghijklmnopqrstuvwxyz          efghijklmnopqrstuvwxyza             abcdefghijklmn pqrstuvwxyz |\n| zyxwvutsrqponmlkjihgfedcba          fghijklmnopqrstuvwxyzabc            abcdefghijklmnopqrstuvwxyz |\n| abcdefghijk                         ghijklmnopq      xyzabcde           abcdefghij lmnopqrstuvwxyz |\n| kjihgfedcba                         hijklmnopqr      yzabcdefg          abcdefghij  mnopqrstuvwxyz |\n| abcdefghijklmnopqrstuvwxyz          ijklmnopqrstuvwxyzabcdefgh          abcdefghij   nopqrstuvwxyz |\n| zyxwvutsrqponmlkjihgfedcba          jklmnopqrstuvwxyzabcdefgh           abcdefghij    opqrstuvwxyz |\n------------------------------------------------------------------------------------------------------\n");
         }
     }
-}
